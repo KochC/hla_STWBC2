@@ -2,7 +2,7 @@
   "name": "STMicroelectronics - STWBC2-HB (serial)",
   "apiVersion": "1.0.0",
   "author": "Christopher Koch",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Logic 2 High-Level Analyzer for the STWBC2-HB wireless charging and power delivery chip.",
   "extensions": {
     "STWBC2-HB": {
