@@ -1,0 +1,13 @@
+{
+  "name": "STWBC2-HB",
+  "apiVersion": "1.0.0",
+  "author": "Christopher Koch",
+  "version": "0.0.1",
+  "description": "Logic 2 High-Level Analyzer for the STWBC2-HB wireless charging and power delivery chip. Decodes monitoring messages (0xB3) containing operational parameters such as frequency, voltage, power, and state information. Supports real-time monitoring of Qi wireless charging and USB-PD operations.",
+  "extensions": {
+    "STWBC2-HB": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
